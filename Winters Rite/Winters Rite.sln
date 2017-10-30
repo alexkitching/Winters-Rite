@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winters Rite.Plugins", "Winters Rite.Plugins.csproj", "{9C94982E-8DF7-009C-4C50-26EBC5127D8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winters Rite", "Winters Rite.csproj", "{AF971C1E-E5C8-C5E7-F0F0-AC7D84AC6803}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winters Rite.Editor.Plugins", "Winters Rite.Editor.Plugins.csproj", "{DEFE4604-DC8F-2895-E8B0-1D5AB7A09347}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C94982E-8DF7-009C-4C50-26EBC5127D8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C94982E-8DF7-009C-4C50-26EBC5127D8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C94982E-8DF7-009C-4C50-26EBC5127D8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C94982E-8DF7-009C-4C50-26EBC5127D8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF971C1E-E5C8-C5E7-F0F0-AC7D84AC6803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF971C1E-E5C8-C5E7-F0F0-AC7D84AC6803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF971C1E-E5C8-C5E7-F0F0-AC7D84AC6803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF971C1E-E5C8-C5E7-F0F0-AC7D84AC6803}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEFE4604-DC8F-2895-E8B0-1D5AB7A09347}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEFE4604-DC8F-2895-E8B0-1D5AB7A09347}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEFE4604-DC8F-2895-E8B0-1D5AB7A09347}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEFE4604-DC8F-2895-E8B0-1D5AB7A09347}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
