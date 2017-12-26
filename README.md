@@ -10,7 +10,7 @@
  
  The Project was a great opportunity for me to explore previously unfamiliar areas (Networking for Example) as well as a way for me to become comfortable with Unity. Due to unforeseen circumstances the game did not reach a finished stage in which I was happy with however the quality and quantity of work in which I produced during the project is some of which I'm proud of.
  
- I was Primarily Responsible for the Programming of the Game however also took part in design discussions.
+ I was Primarily Responsible for the Programming of the Game however also took part in design discussions as well as production of the Spear Weapon Model using 3Ds Max.
  
  **Features:** <br>
  Local and Unity Matchmaking Multiplayer <br/>
